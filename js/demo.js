@@ -1,0 +1,1 @@
+conslole.log("00000")
